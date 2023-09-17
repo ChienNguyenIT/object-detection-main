@@ -3,7 +3,7 @@
 
 # Steps
 <br />
-<b>Step 1.</b> Clone this repository: [https://github.com/anhduy412/object-detection](https://github.com/ChienNguyenIT/object-detection-main)
+<b>Step 1.</b> Clone this repository: (https://github.com/ChienNguyenIT/object-detection-main)
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
